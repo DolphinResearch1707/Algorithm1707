@@ -1,0 +1,17 @@
+Z1<----------------Y
+Y<----------------0
+For Each a1,
+if empty{e<E-e,OP=A}
+then earliest(A)<-------0
+while t<k
+Yt+e<-----------------------Yt+E actionst
+Yt+e<-------------------------Yt+e U add(a)_1
+actionst<-------------------actionst U {at+1}
+Earliest(a)<-------------------min(Earliest)(a),t+1b(a))
+if Yt(Yt+e)
+Earliest(A)<-------Min(Earliest)(a);t+1b(a))
+if Ft+e<------------------- min(Earliest)A >t;(a)<Yt;
+if Empty(EndPoints)
+Then Break
+Else Y<------------min(endpoints)
+Return A=<fo;---n;ao;----n>
